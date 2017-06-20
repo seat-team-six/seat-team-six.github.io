@@ -50,5 +50,5 @@ main = do putStrLn "Hello World!"
 ... three computer science undergraduate students at [University College London](www.ucl.ac.uk) and have built a proof of concept of a new tool, which enhances the expierence of programming assignments for students and professors.
 Currently our team is 
 1. [Janós Potecki](https://www.linkedin.com/in/janospotecki/) from Germany
-2. [Martí Serra Vivancos](https://www.linkedin.com/in/martiserravivancos/) from Italy
-3. [Marco Concetto Rudilosso](https://www.linkedin.com/in/marco-concetto-rudilosso-048614108/) from ~~Spain~~ Catalonia
+2. [Martí Serra Vivancos](https://www.linkedin.com/in/martiserravivancos/) from ~~Spain~~ Catalonia
+3. [Marco Concetto Rudilosso](https://www.linkedin.com/in/marco-concetto-rudilosso-048614108/) from Italy
